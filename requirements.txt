@@ -1,0 +1,6 @@
+selenium
+chromedriver
+inquirer
+pystyle
+rich
+colorama
