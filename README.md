@@ -1,15 +1,8 @@
 # Interia.pl Mail Generator
 This script automates the creation of Interia.pl email accounts.
 
-# Prerequisites
-Python 3.10
-Selenium
-chromedriver
-inquirer
-pystyle
-rich
-colorama
-Brave browser
+# Installation
+run pip install -r requirements.txt
 
 # Usage
 To run the script, open a terminal and navigate to the directory where the script is located. Then run the following command:
